@@ -4,7 +4,7 @@ I'm a second-year college student and I'm interested in cybersecurity. My hobbie
 
 ## Why I want to join WhiteHats?
 
-I want to join WhiteHats because I want to learn how hackers actually break into systems so I can learn how to stop them. Right now I only know the basics like phishing, SQL injection and XSS, and I want to learn it practically instead of only reading about it. I also like learning in a group, and I think being around people who are into the same thing will help me improve faster.
+I've been watching a lot of cybersecurity content on YouTube and some CTF walkthroughs, and honestly it looks really interesting but also way harder when I actually try to do it myself. I want to join WhiteHats to learn from people who actually know this stuff and maybe participate in some competitions together. Also I think learning security will be useful no matter what I end up doing in tech.
 
 ## Cybersecurity news I read recently
 
